@@ -27,4 +27,3 @@ allprojects {
         }
     }
 }
-build\test-results\test\*.xml
