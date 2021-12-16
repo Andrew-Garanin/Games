@@ -1,5 +1,6 @@
 plugins {
     id 'java'
+    id 'jacoco'
 }
 
 repositories {
@@ -26,3 +27,4 @@ allprojects {
         }
     }
 }
+build\test-results\test\*.xml
